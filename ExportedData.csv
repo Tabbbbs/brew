@@ -1,0 +1,26 @@
+Type,Due Date,Description,Amount,Previous Amount Due,Payment Received,Current Charges,Total Amount Due,Total Electric Usage (kWh),Avg. Daily Electric Cost (/Day),Total Gas Usage (CCF),Avg. Daily Gas Cost (/Day),Confirm Number,Payment Method,Routing Number,Account Number,Payment Status,BP Name,Address,Bill Days,Bill Date,Total Amount Paid
+BILL,09/01/21,Jul 30 to Aug 30  Bill (32 Days),$40.6,$26.97,$0,$13.63,$40.6,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",32,Jul 30 to Aug 30,
+BILL,08/02/21,Jun 30 to Jul 29  Bill (30 Days),$26.97,$26.59,$13.05,$13.43,$26.97,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",30,Jun 30 to Jul 29,
+PAYMENT,07/27/21,Phone Payment,$-13.05,,,,,,,,,166853025,Debit Card(Visa),,,COMPLETED,,,,,13.05
+BILL,07/01/21,May 29 to Jun 29  Bill (32 Days),$26.59,$13.05,$0,$13.54,$26.59,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",32,May 29 to Jun 29,
+BILL,06/02/21,Apr 30 to May 28  Bill (29 Days),$13.05,$27.65,$27.95,$13.35,$13.05,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",29,Apr 30 to May 28,
+PAYMENT,05/05/21,Phone Payment,$-27.95,,,,,,,,,161458486,Debit Card(Visa),,,COMPLETED,,,,,27.95
+BILL,05/03/21,Mar 29 to Apr 29  Bill (32 Days),$27.65,$14.21,$0,$13.44,$27.65,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",32,Mar 29 to Apr 29,
+BILL,03/30/21,Feb 26 to Mar 29  Bill (31Days),$14.21,$65.49,$-65.49,$14.21,$14.21,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",31,Feb 26 to Mar 29,
+PAYMENT,03/16/21,,$-65.49,,,,,,,,,,Cash,,,COMPLETED,,,,,65.49
+BILL,03/01/21,Jan 29 to Feb 26  Bill (28Days),$65.49,$50.45,$0,$15.04,$65.49,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",28,Jan 29 to Feb 26,
+BILL,02/01/21,Dec 31 to Jan 29  Bill (29Days),$50.45,$33.29,$0,$17.16,$50.45,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",29,Dec 31 to Jan 29,
+BILL,01/04/21,Dec 01 to Dec 31  Bill (30Days),$33.29,$15.93,$0,$17.36,$33.29,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",30,Dec 01 to Dec 31,
+BILL,12/02/20,Oct 30 to Dec 01  Bill (32Days),$15.93,$40.57,$-40.57,$15.93,$15.93,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",32,Oct 30 to Dec 01,
+PAYMENT,11/09/20,,$-40.57,,,,,,,,,,Cash,,,COMPLETED,,,,,40.57
+BILL,11/02/20,Sep 30 to Oct 30  Bill (30Days),$40.57,$27.23,$0,$13.34,$40.57,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",30,Sep 30 to Oct 30,
+BILL,10/01/20,Aug 31 to Sep 30  Bill (30Days),$27.23,$13.79,$0,$13.44,$27.23,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",30,Aug 31 to Sep 30,
+BILL,09/01/20,Jul 31 to Aug 31  Bill (31Days),$13.79,$13.56,$-13.56,$13.79,$13.79,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",31,Jul 31 to Aug 31,
+PAYMENT,08/26/20,,$-13.56,,,,,,,,,,Cash,,,COMPLETED,,,,,13.56
+BILL,08/03/20,Jun 30 to Jul 31  Bill (31Days),$13.56,$13.56,$-13.56,$13.56,$13.56,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",31,Jun 30 to Jul 31,
+PAYMENT,07/30/20,,$-13.56,,,,,,,,,,Cash,,,COMPLETED,,,,,13.56
+BILL,07/01/20,May 29 to Jun 30  Bill (32Days),$13.56,$13.44,$-13.44,$13.56,$13.56,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",32,May 29 to Jun 30,
+PAYMENT,06/17/20,,$-13.44,,,,,,,,,,Cash,,,COMPLETED,,,,,13.44
+BILL,06/01/20,Apr 30 to May 29  Bill (29Days),$13.44,$27.69,$-27.69,$13.44,$13.44,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",29,Apr 30 to May 29,
+PAYMENT,05/11/20,,$-27.69,,,,,,,,,,Cash,,,COMPLETED,,,,,27.69
+BILL,05/01/20,Apr 03 to Apr 30  Bill (27Days),$27.69,$0,$0,$27.69,$27.69,NaN,$NaN,NaN,$NaN,,,,910000407222,,CAUSEYJAY5@GMAIL.COM,"410 Clinton Ave Unit A, Lancaster, SC 29720",27,Apr 03 to Apr 30,
